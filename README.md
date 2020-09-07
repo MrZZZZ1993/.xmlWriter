@@ -1,4 +1,4 @@
-# .xmlWriter
+# .xmlWriter (C++)
 
 When I want to load resources, such as pictures, from .xml files, it is inconvenient to write paths of images to .xml files.
 So I write a little tool to automatically write all those paths to .xml files and all I need to do is to select images that I want to load.
