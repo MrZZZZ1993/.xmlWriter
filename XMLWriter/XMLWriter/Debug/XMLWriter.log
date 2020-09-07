@@ -1,0 +1,30 @@
+﻿  stdafx.cpp
+  NewPicture.cpp
+  NewPictureMul.cpp
+  NewPictureStatic.cpp
+  Platform.cpp
+  Res.cpp
+  tinystr.cpp
+  tinyxml.cpp
+  tinyxmlerror.cpp
+  tinyxmlparser.cpp
+  XMLWriter.cpp
+  XMLWriterDlg.cpp
+C:\Mine\C++Projects\XMLWriter\XMLWriter\XMLWriter\XMLWriterDlg.cpp(265,41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Mine\C++Projects\XMLWriter\XMLWriter\XMLWriter\XMLWriterDlg.cpp(265,24): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Mine\C++Projects\XMLWriter\XMLWriter\XMLWriter\XMLWriterDlg.cpp(266,64): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Mine\C++Projects\XMLWriter\XMLWriter\XMLWriter\XMLWriterDlg.cpp(266,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Mine\C++Projects\XMLWriter\XMLWriter\XMLWriter\XMLWriterDlg.cpp(297,41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Mine\C++Projects\XMLWriter\XMLWriter\XMLWriter\XMLWriterDlg.cpp(297,24): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Mine\C++Projects\XMLWriter\XMLWriter\XMLWriter\XMLWriterDlg.cpp(298,64): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Mine\C++Projects\XMLWriter\XMLWriter\XMLWriter\XMLWriterDlg.cpp(298,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Mine\C++Projects\XMLWriter\XMLWriter\XMLWriter\XMLWriterDlg.cpp(229,7): warning C4101: 'pDc': unreferenced local variable
+C:\Mine\C++Projects\XMLWriter\XMLWriter\XMLWriter\XMLWriterDlg.cpp(230,7): warning C4101: 'rect': unreferenced local variable
+C:\Mine\C++Projects\XMLWriter\XMLWriter\XMLWriter\XMLWriterDlg.cpp(524,39): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Mine\C++Projects\XMLWriter\XMLWriter\XMLWriter\XMLWriterDlg.cpp(524,22): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Mine\C++Projects\XMLWriter\XMLWriter\XMLWriter\XMLWriterDlg.cpp(525,62): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Mine\C++Projects\XMLWriter\XMLWriter\XMLWriter\XMLWriterDlg.cpp(525,45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Mine\C++Projects\XMLWriter\XMLWriter\XMLWriter\XMLWriterDlg.cpp(505,7): warning C4101: 'pDc': unreferenced local variable
+C:\Mine\C++Projects\XMLWriter\XMLWriter\XMLWriter\XMLWriterDlg.cpp(506,7): warning C4101: 'rect': unreferenced local variable
+  Generating Code...
+  XMLWriter.vcxproj -> C:\Mine\C++Projects\XMLWriter\XMLWriter\Debug\XMLWriter.exe
